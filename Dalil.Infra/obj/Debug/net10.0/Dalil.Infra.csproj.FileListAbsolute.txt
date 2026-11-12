@@ -1,0 +1,15 @@
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\bin\Debug\net10.0\Dalil.Infra.deps.json
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\bin\Debug\net10.0\Dalil.Infra.dll
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\bin\Debug\net10.0\Dalil.Infra.pdb
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\bin\Debug\net10.0\ApiCe.Core.dll
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\bin\Debug\net10.0\ApiCe.Core.pdb
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.AssemblyInfo.cs
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.In.1D0AFE78.Up2Date
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.dll
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\refint\Dalil.Infra.dll
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\Dalil.Infra.pdb
+C:\Users\user\Api\ApiCe.Api\Dalil.Infra\obj\Debug\net10.0\ref\Dalil.Infra.dll

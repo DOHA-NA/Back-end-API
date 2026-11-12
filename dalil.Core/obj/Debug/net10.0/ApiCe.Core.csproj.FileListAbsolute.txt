@@ -1,0 +1,12 @@
+C:\Users\user\Api\ApiCe.Api\dalil.Core\bin\Debug\net10.0\ApiCe.Core.deps.json
+C:\Users\user\Api\ApiCe.Api\dalil.Core\bin\Debug\net10.0\ApiCe.Core.dll
+C:\Users\user\Api\ApiCe.Api\dalil.Core\bin\Debug\net10.0\ApiCe.Core.pdb
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.AssemblyInfoInputs.cache
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.AssemblyInfo.cs
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.dll
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\refint\ApiCe.Core.dll
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.pdb
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ref\ApiCe.Core.dll
+C:\Users\user\Api\ApiCe.Api\dalil.Core\obj\Debug\net10.0\ApiCe.Core.csproj.AssemblyReference.cache
